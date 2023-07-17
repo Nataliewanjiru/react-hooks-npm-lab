@@ -1,0 +1,15 @@
+{
+  "name": "color-clock",
+  "version": "1.0.0",
+  "description": "changes color evry time",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"Hello World!\"",
+    "start": "serve"
+  },
+  "author": "Natty",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^2.30.0"
+  }
+}
